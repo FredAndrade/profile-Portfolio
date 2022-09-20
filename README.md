@@ -1,16 +1,11 @@
-# portfolio
+# Portfolio App
 
-A new Flutter project.
+Um projeto com as informações básicas de contato sobre mim.
 
-## Getting Started
+A project with the basic informations to contact me.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Projeto de um portfolio com minhas informações básicas de contato (GitHub/LinkedIn/Email/Número) em um aplicativo mobile feito 100% em Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A portfolio project with my basic contact informations (GitHub/LinkedIn/Email/Cell Number) in a mobile app made 100% in Flutter.
